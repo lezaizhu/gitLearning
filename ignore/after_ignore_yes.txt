@@ -1,0 +1,1 @@
+在.gitignore配置了忽略yes之后修改

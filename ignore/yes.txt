@@ -3,3 +3,5 @@ yes
 添加了ignore后修改的属性
 
 新增了no.txt之后修改的属性
+
+在.gitignore配置了忽略yes之后修改
